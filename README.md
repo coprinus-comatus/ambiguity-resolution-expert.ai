@@ -5,6 +5,7 @@ Notebook for a simple ambiguity resolution application with expert.ai technology
 A brief tutorial on how to solve linguistic ambiguity with expert.ai NL API.
 
 This repository is linked to the following article: 
+https://towardsdatascience.com/a-simple-nlp-application-for-ambiguity-resolution-bb698d19aff7
 
 expert.ai makes NLP easy, it includes many features:
 
